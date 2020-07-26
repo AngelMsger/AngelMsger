@@ -1,16 +1,24 @@
-### Hi there 👋
+#### 🤣 Overview
 
-<!--
-**AngelMsger/AngelMsger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C++ Developer, Also known a little about Python and Node.js. JRpg Player, ACG Fans.
 
-Here are some ideas to get you started:
+#### 🔭 Working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[FanRuan](https://www.finereport.com/en/company) Software Co., Ltd. Project [FineX](https://www.jiandaoyun.com/).
+
+#### 🌱 Learning
+
+* Distributed System Engineering
+* Big Data Processing
+
+#### 🤔 Looking for Help with
+
+* Deep Learning(CV)
+
+#### 📫 How to Reach Me
+
+* [Telegram](https://t.me/AngelMsger)
+* PSN: AngelMsger_HK
+
+
+
