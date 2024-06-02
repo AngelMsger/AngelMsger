@@ -3,8 +3,8 @@
 #### 🤣 Overview
 
 - Developer
-- [JRPG](https://store.steampowered.com/category/rpg_jrpg/) & [ACG](<https://en.wikipedia.org/wiki/ACG_(subculture)>) fans.
-- Backend leader of project [FineX](https://www.jiandaoyun.com/) at [FanRuan](https://www.finereport.com/en/company) Software Co., Ltd.
+- [JRPG](https://store.steampowered.com/category/rpg_jrpg/) & [ACG](<https://en.wikipedia.org/wiki/ACG_(subculture)>) fans
+- Backend leader of project [FineX](https://www.jiandaoyun.com/) at [FanRuan](https://www.finereport.com/en/company) Software Co., Ltd
 
 #### 🔭 Working on
 
