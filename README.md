@@ -26,10 +26,9 @@
 
 #### 📷 Socials
 
-- [![Blog](https://img.shields.io/badge/Blog-0E83CD?logo=hexo&logoColor=white)](https://blog.angelmsger.com) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@AngelMsger)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/AngelMsger) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/AngelMsger) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9438367)
+- [![Blog](https://img.shields.io/badge/Blog-0E83CD?logo=hexo&logoColor=white)](https://blog.angelmsger.com) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@AngelMsger) [![知乎](https://img.shields.io/badge/Zhihu-0084FF?logo=zhihu&logoColor=white)](https://www.zhihu.com/people/angelmsger) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AngelMsger)
 - [![网易云音乐](https://img.shields.io/badge/Netease%20Cloud%20Music-D43C33?logo=neteasecloudmusic&logoColor=white)](https://music.163.com/#/user/home?id=52129065) [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/3346211)
-- [![知乎](https://img.shields.io/badge/Zhihu-0084FF?logo=zhihu&logoColor=white)](https://www.zhihu.com/people/angelmsger) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AngelMsger)
-- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9438367)
 
 ---
 
