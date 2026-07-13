@@ -9,9 +9,9 @@
 
 <div align="center">
 
-[![haotian@arch — zsh](assets/terminal.svg)](https://angelmsger.github.io/AngelMsger/)
+[![haotian@arch — zsh](assets/terminal.svg)](https://angelmsger.github.io/)
 
-[**`>_ HOMEPAGE`**](https://angelmsger.github.io/AngelMsger/) &nbsp;·&nbsp; [**`BLOG`**](https://blog.angelmsger.com) &nbsp;·&nbsp; [**`X`**](https://x.com/AngelMsger) &nbsp;·&nbsp; [**`HUGGING FACE`**](https://huggingface.co/AngelMsger)
+[**`>_ HOMEPAGE`**](https://angelmsger.github.io/) &nbsp;·&nbsp; [**`BLOG`**](https://blog.angelmsger.com) &nbsp;·&nbsp; [**`X`**](https://x.com/AngelMsger) &nbsp;·&nbsp; [**`HUGGING FACE`**](https://huggingface.co/AngelMsger)
 
 </div>
 
