@@ -39,10 +39,10 @@ mission:  Turn Unthinkable to Reality.
 
 <div align="center">
 
-[![CF-LSH-HE](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AngelMsger&repo=CF-LSH-HE&bg_color=070711&title_color=29e0ff&text_color=c9d3e6&icon_color=ff3d81&border_color=23233f)](https://github.com/AngelMsger/CF-LSH-HE)
-[![Lensight](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AngelMsger&repo=Lensight&bg_color=070711&title_color=29e0ff&text_color=c9d3e6&icon_color=ff3d81&border_color=23233f)](https://github.com/AngelMsger/Lensight)
-[![confluence-cli](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AngelMsger&repo=confluence-cli&bg_color=070711&title_color=29e0ff&text_color=c9d3e6&icon_color=ff3d81&border_color=23233f)](https://github.com/AngelMsger/confluence-cli)
-[![bitbucket-cli](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AngelMsger&repo=bitbucket-cli&bg_color=070711&title_color=29e0ff&text_color=c9d3e6&icon_color=ff3d81&border_color=23233f)](https://github.com/AngelMsger/bitbucket-cli)
+[![CF-LSH-HE](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AngelMsger&repo=CF-LSH-HE&description_lines_count=2&bg_color=070711&title_color=29e0ff&text_color=c9d3e6&icon_color=ff3d81&border_color=23233f)](https://github.com/AngelMsger/CF-LSH-HE)
+[![Lensight](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AngelMsger&repo=Lensight&description_lines_count=2&bg_color=070711&title_color=29e0ff&text_color=c9d3e6&icon_color=ff3d81&border_color=23233f)](https://github.com/AngelMsger/Lensight)
+[![confluence-cli](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AngelMsger&repo=confluence-cli&description_lines_count=2&bg_color=070711&title_color=29e0ff&text_color=c9d3e6&icon_color=ff3d81&border_color=23233f)](https://github.com/AngelMsger/confluence-cli)
+[![bitbucket-cli](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AngelMsger&repo=bitbucket-cli&description_lines_count=2&bg_color=070711&title_color=29e0ff&text_color=c9d3e6&icon_color=ff3d81&border_color=23233f)](https://github.com/AngelMsger/bitbucket-cli)
 
 [`$ git clone — view all repositories →`](https://github.com/AngelMsger?tab=repositories)
 
